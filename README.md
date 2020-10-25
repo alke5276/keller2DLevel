@@ -1,7 +1,9 @@
 # Level Design Exercise - Design Goals
 
 My levels design goals were primarily focused on player choices as well as player accuracy. For the choices, I had the idea of having th eplayer either decide to figh the spitting enemies or the attacking ones through two different paths, both leadint to the same destination. I was able to make this with a valley of the attacking enemies and a floating pllatform with the spitting enemy. Later, the player must also choose to break down a wall in the knowledge that he/she will be attacked by enemies. However in order to complete the level the player must do this. So while this is a choice, the player is encouraged to fight the enemy. 
+
 As far as accuracy, the player must strategically jump from one single squared platform to the next. This challenegs the player to quickly manuever trhough the air to land directly on the platform. 
+
 There is also the challenge of an enemy spitting at the player from a moving platform. This was just an overall challenge to the player to have them try to use the moving pllatform and jump to the next cube without getting hit by the enemy. 
 
 # Peer Feedback 
